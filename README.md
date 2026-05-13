@@ -1,5 +1,9 @@
 # Starphire
 
+*Your life, your context, your AI.*
+
+---
+
 ## What this is
 
 Three layers stacked.
